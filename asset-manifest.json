@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/newspaperwebapp/static/css/main.761e71c3.css",
+    "main.js": "/newspaperwebapp/static/js/main.50155164.js",
+    "reactPlayerYouTube.js": "/newspaperwebapp/static/js/reactPlayerYouTube.bd2a70ce.chunk.js",
+    "reactPlayerSoundCloud.js": "/newspaperwebapp/static/js/reactPlayerSoundCloud.d7e2ee57.chunk.js",
+    "reactPlayerVimeo.js": "/newspaperwebapp/static/js/reactPlayerVimeo.74d7371d.chunk.js",
+    "reactPlayerFacebook.js": "/newspaperwebapp/static/js/reactPlayerFacebook.76416aab.chunk.js",
+    "reactPlayerStreamable.js": "/newspaperwebapp/static/js/reactPlayerStreamable.d70cc6f2.chunk.js",
+    "reactPlayerWistia.js": "/newspaperwebapp/static/js/reactPlayerWistia.a17cd2c0.chunk.js",
+    "reactPlayerTwitch.js": "/newspaperwebapp/static/js/reactPlayerTwitch.57d925a4.chunk.js",
+    "reactPlayerDailyMotion.js": "/newspaperwebapp/static/js/reactPlayerDailyMotion.01d33021.chunk.js",
+    "reactPlayerMixcloud.js": "/newspaperwebapp/static/js/reactPlayerMixcloud.9fcaee4a.chunk.js",
+    "reactPlayerVidyard.js": "/newspaperwebapp/static/js/reactPlayerVidyard.abe1e5d2.chunk.js",
+    "reactPlayerKaltura.js": "/newspaperwebapp/static/js/reactPlayerKaltura.14e5538a.chunk.js",
+    "reactPlayerFilePlayer.js": "/newspaperwebapp/static/js/reactPlayerFilePlayer.056573a3.chunk.js",
+    "reactPlayerPreview.js": "/newspaperwebapp/static/js/reactPlayerPreview.198b6337.chunk.js",
+    "static/js/592.7b2520b0.chunk.js": "/newspaperwebapp/static/js/592.7b2520b0.chunk.js",
+    "index.html": "/newspaperwebapp/index.html",
+    "main.761e71c3.css.map": "/newspaperwebapp/static/css/main.761e71c3.css.map",
+    "main.50155164.js.map": "/newspaperwebapp/static/js/main.50155164.js.map",
+    "reactPlayerYouTube.bd2a70ce.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerYouTube.bd2a70ce.chunk.js.map",
+    "reactPlayerSoundCloud.d7e2ee57.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerSoundCloud.d7e2ee57.chunk.js.map",
+    "reactPlayerVimeo.74d7371d.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerVimeo.74d7371d.chunk.js.map",
+    "reactPlayerFacebook.76416aab.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerFacebook.76416aab.chunk.js.map",
+    "reactPlayerStreamable.d70cc6f2.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerStreamable.d70cc6f2.chunk.js.map",
+    "reactPlayerWistia.a17cd2c0.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerWistia.a17cd2c0.chunk.js.map",
+    "reactPlayerTwitch.57d925a4.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerTwitch.57d925a4.chunk.js.map",
+    "reactPlayerDailyMotion.01d33021.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerDailyMotion.01d33021.chunk.js.map",
+    "reactPlayerMixcloud.9fcaee4a.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerMixcloud.9fcaee4a.chunk.js.map",
+    "reactPlayerVidyard.abe1e5d2.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerVidyard.abe1e5d2.chunk.js.map",
+    "reactPlayerKaltura.14e5538a.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerKaltura.14e5538a.chunk.js.map",
+    "reactPlayerFilePlayer.056573a3.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerFilePlayer.056573a3.chunk.js.map",
+    "reactPlayerPreview.198b6337.chunk.js.map": "/newspaperwebapp/static/js/reactPlayerPreview.198b6337.chunk.js.map",
+    "592.7b2520b0.chunk.js.map": "/newspaperwebapp/static/js/592.7b2520b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761e71c3.css",
+    "static/js/main.50155164.js"
+  ]
+}
