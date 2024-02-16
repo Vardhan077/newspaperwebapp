@@ -5,7 +5,7 @@ import ArticleDetailScreen from './components/ArticleDetailScreen'
 import Main from './components/Main'
 
 const App = () =>(
-  <BrowserRouter>
+  <BrowserRouter basename='/newspaperwebapp'>
       <Routes>
           <Route exact path ='/' element={<HomeScreen/>} ></Route>
           <Route exact path = '/article/:id' element = {<ArticleDetailScreen/>} ></Route>
