@@ -1,0 +1,60 @@
+.pic{
+    height:400px;
+    width:640px;
+}
+.itemContainer{
+    height:100vh;
+    width: auto;
+}
+.inside{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    margin-bottom: 150px;
+    margin-left: 150px;
+    margin-top: auto;
+    margin-right: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content{
+    font-family: "PT Serif",georgia,times,serif;
+    font-size: 23px;
+}
+.description{
+    font-family: "PT Serif",georgia,times,serif;
+    font-size: 20px;
+    letter-spacing: .5px;
+    line-height: 28px;
+    margin-bottom: 28px;
+    margin-top: 28px;
+}
+.contentTag{
+    font-family: var(--font-zilla-slab);
+    color: red;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.descTag{
+    font-family: var(--font-zilla-slab);
+    color: red;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.span{
+    color: red;
+    margin-right: 8px;
+}
+
+.title{
+    font-family: Zilla Slab,Lora,georgia,times,serif;
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 0.6em;
+    margin-top: 0.6em;
+    
+}

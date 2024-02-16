@@ -1,0 +1,294 @@
+.img{
+    height:40px;
+    width:50px;
+}
+
+.head{
+    color:red;
+    font-family: Cambria;
+    margin-left: 25px;
+    font-size: 21px;
+    margin-top: 23px;
+}
+
+.heading{
+    color:red;
+    font-family: "PT Serif",georgia,times,serif;
+    font-size: 30px;
+    margin-right: 8px;
+    font-weight: normal;
+}
+
+.button{
+    background-color:red;
+    color: #fff;
+    border: 0px;
+    height: 30px;
+    weight:45px;
+    border-radius: 5px;
+    font-family: Cambria;
+    margin-top: 15px;
+    margin-right: 48px;
+
+
+}
+.signin{
+    font-family: Cambria;
+    color:red;
+    font-size: 21px;
+    font-weight: bold;
+    margin-right: 48px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.in{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 6px;
+}
+
+.search{
+    display: flex;
+    justify-content: end;
+    margin-right: 55px;
+    height:25px;
+    margin-top: 25px;
+}
+
+.searchIcon{
+    font-size: 28px;
+    margin-right: 5px;
+}
+
+.mainBox{
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.read{
+    margin:20px;
+}
+
+
+.mainPublished{
+    margin:20px;
+    color: red;
+}
+
+.mainDesc{
+    margin:20px;
+}
+
+.mainTitle{
+    margin:20px;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mainImg{
+    height: 420px;
+    width: 650px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+.newsItems{
+    margin-top:180px;
+    margin-left: 135px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.line{
+    margin-top:0px ;
+}
+
+.mainMatter{
+    margin-left: 85px;
+    max-width:300px;
+    height:420px;
+    background: rgba(0,0,0,.9);
+    color: #fff;
+    text-decoration: none;
+    /* background-image: url('https://res.cloudinary.com/dg9itycrz/image/upload/v1708069245/pexels-nappy-935979_x4rtsx.jpg');
+    opacity: 0.2; */
+}
+
+.sidehead{
+    font-family: Cambria;
+    font-weight: bold;
+    font-size:20px;
+    margin-bottom:0px;
+    margin-left: 25px;
+}
+
+.sideTitle{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+    max-width: 380px;
+}
+
+.sideAuthor{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 250px;
+    margin-bottom: 2px;
+    margin-top: 0px;
+}
+
+.sideRead{
+    font-family:serif;
+    color: red;
+    margin-left: 170px;
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+
+.mostRead{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column ;
+    justify-content: end;
+    align-items: center;
+    width:500px;
+    margin-bottom: 0px;
+}
+
+.mostReadLink{
+    text-decoration: none;
+    color: #000;
+}
+
+.mostReadLink:hover{
+    color: red;
+}
+
+.youShouldKnow{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.second{
+    font-family:Oswald,Lora,georgia,times,serif;
+    font-size: 1.5rem;
+    letter-spacing: .82px;
+}
+
+.ysk{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.yskTwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.youShouldKnowTwo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100vw;
+}
+
+.line{
+    margin-top: 35px;
+    width: 90vw;
+}
+
+.lineT:hover{
+    color: red;
+}
+
+.videoPlayer{
+    background-color: #121212;
+    height:650px;
+    display: flex;
+    flex-direction: row;
+}
+
+.smallVid{
+    margin-top: 45px;
+    margin-left: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.smallHeading{
+    color: #ebebeb;
+    font-family: Zilla Slab,Lora,georgia,times,serif;
+    font-size:20px;
+
+}
+
+.player{
+    margin-left: 145px;
+    margin-top: 30px;
+
+}
+
+.playerS{
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.headingVid{
+    color: #ebebeb;
+    margin-left: 145px;
+    margin-top: 30px;
+    font-family: Zilla Slab,Lora,georgia,times,serif
+}
+.video{
+    font-family: Oswald,Lora,georgia,times,serif;
+    font-size: 1.5rem;
+    color: #ebebeb;
+    margin-left: 145px;
+    margin-top: 100px;
+}
+
+.full{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+
+.bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 35px;
+}
+
+.icons{
+    height: 25px;
+    width: auto;
+}
+
+.icon{
+    margin:7px ;
+    font-size: 25px;
+    color: red;
+}

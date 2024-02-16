@@ -1,0 +1,29 @@
+.para{
+    font-family: "PT Serif",georgia,times,serif;
+    font-size: 17px;
+    letter-spacing: .5px;
+    line-height: 28px;
+    margin-bottom: 28px;
+    margin-top: 28px;
+}
+
+.head{
+    font-family: Zilla Slab,Lora,georgia,times,serif;
+    font-weight: 700;
+    margin-bottom: 0.6em;
+    margin-top: 0.6em;
+}
+.pic{
+    height:400px;
+    width:640px;
+}
+
+.big{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* max-width: 1200px; */
+    
+}
