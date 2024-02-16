@@ -42,11 +42,6 @@
     color: red;
 }
 
-/* .itemContent{
-    font-family: serif;
-    font-weight: normal;
-} */
-
 .itemAuthor{
     margin-right: 5px;
     font-family: 'Times New Roman', Times, serif;
@@ -65,9 +60,6 @@
     justify-content: end;
 }
 
-
-
-/* For screens smaller than 768px */
 @media screen and (max-width: 768px) {
     .item {
       width: 100%;
@@ -85,7 +77,6 @@
     }
   }
   
-  /* For screens smaller than 480px */
   @media screen and (max-width: 480px) {
     .itemTitle {
       font-size: 16px;
